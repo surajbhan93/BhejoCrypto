@@ -1,5 +1,5 @@
 # 🚀 BhejoCrypto Blockchain
-
+Krypt Blockchain is a decentralized Ethereum-based application that allows users to connect their MetaMask wallet, send ETH with custom messages and keywords, and view transaction history on the blockchain — all through a modern React-based UI. Built using Solidity, Web3, and Tailwind CSS, it brings a smooth and transparent crypto payment experience.
 A decentralized cryptocurrency transaction app built with Solidity, React, and Web3. Send and receive Ethereum seamlessly on the blockchain with a modern UI.
 
 ---
